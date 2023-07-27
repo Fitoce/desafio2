@@ -1,4 +1,4 @@
-<h1>Conversor 3000</h1>
+<h1 align ="center" >Conversor 3000</h1>
 
 <wm> Descripcion del desafio converdor de moneda </em>
 
