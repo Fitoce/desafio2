@@ -32,18 +32,22 @@ Esta es la primera Version de Conversor 3000 en la cual damos solucion a 3 conve
  Puede descargar el repositorio desafio2 y agregarlo al workspace de su ide preferido en mi caso es eclipse.
 
  <wm>Tecnologias utilizadas </em>
+
  -Java8
+
  -Eclipse ide
  
 
 
  <wm>Autor </em>
+
 Fabian Pereira 
 
  <wm>Detalles al crear codigo </em>
+ 
  Aqui quiero relatar lo que realize en este desafio.
 
  Primeramente me guie con las guias de Trello por lo mismo al revisar el repositorio encontraran 2 carpetas  proyecto uno y proyecto dos,
  el proyecto uno lo realize con JOptionPane en su mayoria y el codigo. en cambio el proyecto dos lo realize con windows builder y el codigo lo 
- realize un poco mejorado al del primer proyecto. me guie por guias en youtube (tome ejemplos) y realize mi propio codigo. me siento bien por haber realizado esto solo 
- y sin haer copiado mucho codigo.
+ realize un poco mejorado al del primer proyecto. me guie por youtube stackoverflow (tome ejemplos) y realize mi propio codigo. me siento bien por haber realizado esto solo 
+ y sin copiar algo hecho.
