@@ -1,5 +1,6 @@
-<wm> #Conversor 3000 </em>
-<h1>Descripcion del desafio converdor de moneda </h1>
+<h1>Conversor 3000</h1>
+
+<wm> Descripcion del desafio converdor de moneda </em>
 
 Crear un conversor de divisas utilizando el lenguaje Java. Con algunos requisitos como
 moneda nacional  a Dolar, Euros, Libras Esterlinas, Yen Japones y Won sul-corano. 
