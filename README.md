@@ -1,4 +1,8 @@
+
+![pngwing com(52)](https://github.com/Fitoce/desafio2/assets/130674384/295a5463-03fc-4c88-b2a4-63cfff550b9a)
+
 <h1 align ="center" >Conversor 3000</h1>
+
 
 <wm> Descripcion del desafio converdor de moneda </em>
 
